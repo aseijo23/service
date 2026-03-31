@@ -3,7 +3,7 @@ Install loki logging driver docker plugin
 ```
 docker plugin install grafana/loki-docker-driver:2.4.1 --alias loki --grant-all-permissions
 ```
-
+string testing
 # Monitoring Stack
 
 ## Start monitoring layer
